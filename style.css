@@ -1,0 +1,25 @@
+body {
+    background-color:darkgray
+}
+
+#weatherDiv {
+    font-size: 30px;
+    padding-top: 50px;
+}
+
+#dataDiv {
+    font: 30px 'Oleo Script', Helvetica, sans-serif;
+    color: #2b2b2b;
+/*    text-shadow: 2px 2px 0px rgba(0,0,0,0.1);*/
+}
+
+#image {
+    height: 50px;
+    width: 50px;
+}
+
+#btn {
+    font: 30px 'Oleo Script', Helvetica, sans-serif;
+    color: #2b2b2b;
+    background-color: darkgray;
+}
